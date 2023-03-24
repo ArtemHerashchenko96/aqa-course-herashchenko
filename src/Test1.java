@@ -1,3 +1,3 @@
 public class Test1 {
-    // Comment
+    // New comment #1
 }
